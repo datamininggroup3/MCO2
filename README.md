@@ -1,2 +1,16 @@
 # MCO2
-This is our final project
+SECTION: BSIT-3C
+
+GROUP 3 
+
+Leader:
+   Aaron L. Mabutol
+Member:
+   Ariel M. Panzuelo 
+  Jona R. Cortes
+  Ralph Christian Rosalado 
+  Jenilyn Baloma 
+  Reymalyn Gonzales Agarao
+  Jason Labajo Deguzman
+  Teodoro Escobar
+
